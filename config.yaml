@@ -1,0 +1,11 @@
+paths:
+  comet: "../comet.macos.exe"
+  comet_params: "../Comet2020_Hs_Sp_TMT_Trypsin.params"
+  fasta: "../JCAST-LR/results/JCASTLR_output/test0_long_JCASTLR_level1.fasta"
+  percolator: "resources/crux-4.1.Darwin.x86_64/bin/crux percolator"
+
+data:
+  run_1: "MS/mzML/20180409"
+
+
+
